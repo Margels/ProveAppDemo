@@ -1,0 +1,29 @@
+PODS:
+  - ProveAuth (6.5.0):
+    - ProveBase (~> 3.2.1)
+    - ProveDeviceAuth (~> 3.2.1)
+    - ProveMobileAuth (~> 3.0.2)
+  - ProveBase (3.2.1)
+  - ProveDeviceAuth (3.2.1):
+    - ProveBase (~> 3.2.1)
+  - ProveMobileAuth (3.0.2)
+
+DEPENDENCIES:
+  - ProveAuth (~> 6.5.0)
+
+SPEC REPOS:
+  https://prove.jfrog.io/artifactory/api/pods/libs-public-cocoapods:
+    - ProveAuth
+    - ProveBase
+    - ProveDeviceAuth
+    - ProveMobileAuth
+
+SPEC CHECKSUMS:
+  ProveAuth: 6c863ab109c61cb6aeaa089294d9dc1dbb61711c
+  ProveBase: cedd0927e163382ff3c27285fba67b540bb3c96b
+  ProveDeviceAuth: 8e2731ef12bc32419c4aad5398d948a27e75cb4b
+  ProveMobileAuth: f1ede31dbbdada11cf964012fe1da254374ba92f
+
+PODFILE CHECKSUM: c508959e712e69d046ca1526407b1a27613c821e
+
+COCOAPODS: 1.16.2
